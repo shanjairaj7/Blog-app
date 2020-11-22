@@ -15,11 +15,11 @@
 
 .login__message > h1 {
   font-size: 75px;
-  width: 100%;
+  width: 80%;
   line-height: 1em;
   margin: 10px auto;
   font-weight: 900;
-  letter-spacing: -3px;
+  letter-spacing: -4px;
   color: rgb(17, 17, 17);
   text-decoration: underline;
 }
