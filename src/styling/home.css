@@ -17,9 +17,9 @@
   font-size: 75px;
   width: 100%;
   line-height: 1em;
-  margin: 0 auto;
+  margin: 10px auto;
   font-weight: 900;
-  letter-spacing: -2.5px;
+  letter-spacing: -3px;
   color: rgb(17, 17, 17);
   text-decoration: underline;
 }
